@@ -5,7 +5,7 @@ Um jogo inspirado no Arkanoid desenvolvido 100% em C utilizando a biblioteca Ray
 ## Integrantes
 - Lucca Albuquerque Dangelo
 - Gabriel Gueiros Tabosa
-- Victor Tavares
+- Victor Rodrigues Tavares
 
 ## Sobre o jogo
 BrickC é um jogo de quebra-blocos onde o jogador controla um paddle na base da tela e deve destruir todos os blocos sem deixar a bola cair. A disposição dos blocos é gerada aleatoriamente a cada partida.
